@@ -1,7 +1,7 @@
 {
   "name": "farmacia",
   "version": "1.0.0",
-  "description": "",
+  "description": "Projeto destinado a ensinar a fazer controle de um estoque, exemplo didático que não é atende totalmente a uma aplicação de mercado, vários atributos foram deixados de lado afim de facilitar e agilizar o processo.",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -25,5 +25,13 @@
     "dotenv": "^17.2.3",
     "express": "^5.1.0",
     "pg": "^8.16.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmr230584/farmacia-backend-didatica.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jmr230584/farmacia-backend-didatica/issues"
+  },
+  "homepage": "https://github.com/jmr230584/farmacia-backend-didatica#readme"
 }
